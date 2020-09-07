@@ -1,0 +1,1 @@
+- Tried the tutorial: https://codelabs.developers.google.com/codelabs/cloud-run-django/
